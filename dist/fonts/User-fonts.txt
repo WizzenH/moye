@@ -1,0 +1,4 @@
+User-supplied fonts, added 2026-10-26:
+- JiangxiZhuokai.woff2: lossless web-font conversion of 江西拙楷.ttf supplied by the user. Original name and glyph outlines retained. Designer metadata: huang yu chen / fontree. Font information: https://www.hellofont.cn/font-detail?fontid=7134 . This font is not covered by the Google font OFL files alongside it.
+- HuiwenMincho.woff2: lossless web-font conversion of Huiwenmincho-improved.ttf supplied by the user. Embedded copyright string: Public Domain. Upstream project: https://github.com/bosswnx/huiwenmincho-improved (CC0-1.0).
+Original files remain unchanged in the user's Downloads directory.
